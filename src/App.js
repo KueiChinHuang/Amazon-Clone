@@ -7,7 +7,7 @@ function App() {
   return (
     // BEM
     <div className="App">
-      <Header />
+      <Header /> 
       <Home />
     </div>
   );
